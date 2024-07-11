@@ -7,7 +7,7 @@ The dataset used for this study was gathered from Nairobi-based TAIFA Mobile, a 
 - Financial Information: Profit margins, revenue, and cost per service.
 - Service Utilization Data: Sender count, USSD code usage, and interaction with short codes.
 - Operational Data: Error rates, service deployment timelines, and internal communication effectiveness.
-one for the dataset used: ![customer balances](https://github.com/RodrigueIR/Taifa-Mobile-BI-Analysis/assets/117353579/18ff612d-5230-423d-b4fb-3a3db7515cbe)
+one of the dataset used: ![customer balances](https://github.com/RodrigueIR/Taifa-Mobile-BI-Analysis/assets/117353579/18ff612d-5230-423d-b4fb-3a3db7515cbe)
 ## II. The project's requirement
 The following are the main needs for this project:
 - Assess the Maturity of BI: Evaluate TAIFA Mobile's existing BI capabilities.
